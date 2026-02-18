@@ -1,0 +1,30 @@
+# ============================================
+# NanDe Garden - Privacy Protection
+# 私人数据绝不上传
+# ============================================
+
+# 用户碎片日记 (Private Fragments)
+fragments/**/*.md
+!fragments/README.md
+
+# 存档数据 (Private Archives)
+archives/**/*.md
+!archives/README.md
+
+# 火花辩论记录 (Private Sparks)
+sparks/**/*.md
+
+# 时刻记录 (Private Moments)
+moments/**/*.md
+
+# 保留目录结构
+!**/.gitkeep
+
+# ============================================
+# 系统文件
+# ============================================
+.DS_Store
+*.pyc
+__pycache__/
+.env
+*.log
