@@ -1,5 +1,5 @@
 ---
-name: nange-garden
+name: nande-garden
 description: |
   楠得生命操作系统（NanDe Life OS）—— 楠哥的个人思维复盘与自我进化工具。
   核心功能：静默记录 → 火花碰撞 → 结构化复盘 → 无损思维萃取。
